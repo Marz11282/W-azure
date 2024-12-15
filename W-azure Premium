@@ -1,8 +1,3 @@
-Config = { 
- namescript = "W-azure Premium"
- Logoscript = "138386008309023"
- tacgia = "Marz11282"
-}
 getgenv().Team = "Pirates"
 getgenv().AutoLoad = false --Will Load Script On Server Hop
 getgenv().SlowLoadUi  = false
